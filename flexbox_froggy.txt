@@ -1,0 +1,8 @@
+flex-flow: column-reverse wrap-reverse;
+justify-content: center;
+align-content: space-between;
+
+explanation: 
+flex-flow: makes froggy column in reversed order/ allows wrapping columns. 
+justify-content adjusts to horizontal center of div.
+align-content: adjusts space between wrapped columns. 
